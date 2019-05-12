@@ -6,7 +6,5 @@ hello
 
 test merge5
 
-
-
 test merge6
 
