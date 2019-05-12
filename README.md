@@ -1,5 +1,2 @@
-# mybook
-mybook
+# Initial page
 
-test hook
-test hook again
