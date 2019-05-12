@@ -5,5 +5,3 @@
 
 
 hello
-
-test merge
